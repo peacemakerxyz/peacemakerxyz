@@ -1,7 +1,5 @@
 <h3 align="center">bsit @ PUP Manila</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peacemakerxyz&label=Profile%20views&color=0e75b6&style=flat" alt="peacemakerxyz" /> </p>
-
 <h4>Exploring, Learning, and Building.</h4>
 <h4>I'm currently interested in web development.</h4>
 
