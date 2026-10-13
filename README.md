@@ -1,6 +1,5 @@
 <h3 align="center">BSIT @ PUP Manila</h3>
 
-<h4>Exploring, Learning, and Building.</h4>
 <h4>I'm currently interested in web development.</h4>
 
 <h3 align="left">Languages and Tools:</h3>
